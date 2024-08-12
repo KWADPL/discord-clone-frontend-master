@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Routes, Navigate } from "react-router-dom";
-import Login from "./pages/login";
-import Register from "./pages/register";
-import Lobby from "./pages/lobby";
+import Login from "./pages/loginstyles.ts/login";
+import Register from "./pages/registerstyles/register";
+import Lobby from "./pages/lobbystyles.ts/lobby";
 import Landing from "./pages/landing";
 import api from "./services/api";
 import UserQuery from "./graphql/queries/user";

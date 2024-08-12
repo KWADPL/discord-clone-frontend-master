@@ -19,7 +19,7 @@ import SquareImage from "../assets/square.svg";
 import CircleImage from "../assets/circle.svg";
 import TriangleImage from "../assets/triangle.svg";
 import XImage from "../assets/x.svg";
-import Button from "../components/button";
+import Button from "../components/button/button";
 import './landing.css';
 
 function Landing() {
